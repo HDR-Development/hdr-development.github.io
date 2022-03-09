@@ -3,7 +3,7 @@ title: HewDraw Remix's First Public Beta and State of the Game
 author:
   name: HewDraw Remix Dev Team
   link: https://github.com/HDR-Development
-date: 2022-03-09 13:30:00 -0700
+date: 2022-03-09 10:00:00 -0700
 categories: [Release, ProjectInformation]
 tags: [release]
 ---
