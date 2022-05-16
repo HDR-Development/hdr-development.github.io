@@ -82,13 +82,13 @@ To get this file you'll have to go to the page containing in-development [romfs 
 
  1. Download the latest ROMFS file available by clicking on "romfs.zip"
  2. Extract the files inside the ROMFS Zip
- 3. Click on the ultimate folder and rename the file "hdr-assets" and "hdr-stages" to "hdr-pr-assets" and "hdr-pr-stages"
+ 3. Click on the ultimate folder and rename the `hdr-assets` and `hdr-stages` folders to `hdr-pr-assets` and `hdr-pr-stages`
  4. Drag the ultimate folder to the root of your SD card
- 5. Open the mod manager and make sure to disable the "hdr-assets" and "hdr stages", and enable "hdr-pr-assets" and "hdr-pr-stages"
+ 5. Open the mod manager and make sure to disable the `hdr-assets` and `hdr stages`, and enable `hdr-pr-assets` and `hdr-pr-stages`
 
 If you are not careful, and do not follow the above steps, you may "break" your installation according to the launcher. Follow the steps above closely if you plan on testing romfs changes.
 
-*(Note: You can switch back to base HDR by reenabling "hdr-assets" and "hdr-stages" and disabling the "hdr-pr-assets" and "hdr-pr-stages" on the mod manager)*
+*(Note: You can switch back to base HDR by reenabling `hdr-assets` and `hdr-stages` and disabling the `hdr-pr-assets` and `hdr-pr-stages` on the mod manager)*
 
 
 ## And thats it!
