@@ -21,7 +21,7 @@ As with any new project, the appearance of bugs and other oddities is unavoidabl
 
 ## Nightlies
 
-Typically once a day (or every  few days), an experimental patch is developed and uploaded to HDR's github repository (put link here). This patch is known as a "Nightly" and contains the most recently approved changes to the base game of HDR. It is within this patch that most testing should occur. 
+Typically once a day (or every  few days), when changes get merged, a nightly update is built and uploaded to HDR's github repository. This patch is known as a "Nightly" and contains the most recently approved changes to the base game of HDR. It is within this patch that most testing should occur. 
 
 The simplest way to test out a nightly is by updating to it from the HDR launcher page. Follow this visual guide through the process: 
 
@@ -68,7 +68,7 @@ It can also be helpful to look at the [Issues page](https://github.com/HDR-Devel
 One of our esteemed developers (blujay) has created an experimental hitbox/hurtbox visualizer for HDR, which can be very helpful while testing. If you'd like to use it alongside your testing, here's a quick guide on how to install it. 
 
 First download the visualizer from the following link:
-https://cdn.discordapp.com/attachments/950977159088975883/954634337297498122/HDRvisualizer.7z
+[Visualizer download link](https://cdn.discordapp.com/attachments/950977159088975883/954634337297498122/HDRvisualizer.7z)
 
 After extracting the file, follow the instructions on the link below:
 
@@ -78,10 +78,9 @@ After extracting the file, follow the instructions on the link below:
 
 In some of the PRs created by the developers, their is a possibility that they require downloading extra files other than the "hdr-switch" file. The file being referred to here is known as **ROMFS**. The developer will indicate if this file is necessary in their description of the PR. ***Please note that this isn't necessary for most changes and only do this step when it is explicitly written on the PR description.*** 
 
-To get this file you'll have to go to the following site:
-https://github.com/HDR-Development/romfs-release/releases
+To get this file you'll have to go to the page containing in-development [romfs releases](https://github.com/HDR-Development/romfs-release/releases).
 
- 1. Download the latest ROMF file available by clicking on "romfs.zip"
+ 1. Download the latest ROMFS file available by clicking on "romfs.zip"
  2. Extract the files inside the ROMFS Zip
  3. Click on the ultimate folder and rename the file "hdr-assets" and "hdr-stages" to "hdr-pr-assets" and "hdr-pr-stages"
  4. Drag the ultimate folder to the root of your SD card
